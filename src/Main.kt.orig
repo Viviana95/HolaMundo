@@ -1,0 +1,10 @@
+fun main() {
+    println("Hello World!")
+    println("Nuevo mensaje!")
+<<<<<<< HEAD
+    println("mensaje desarrollo2!")
+=======
+    println("Mensaje desde desarrollo 1!")
+    println("Mensaje para  origin!")
+>>>>>>> feature/desarrollo1
+}
